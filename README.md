@@ -79,3 +79,11 @@ Classification is based on keywords rather than machine learning or an AI model.
 ## Author
 
 Built as a practical Python and Flask learning project.
+
+## Screenshots
+
+### Inquiry Form
+![Smart Customer Inquiry Triage - Inquiry Form](screenshots/inquiry-form.png)
+
+### Inquiry Dashboard
+![Smart Customer Inquiry Triage - Dashboard](screenshots/inquiry-dashboard.png)
